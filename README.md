@@ -1,0 +1,1 @@
+# similatead-annaling-for-n-queens
